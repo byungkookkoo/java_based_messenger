@@ -15,7 +15,7 @@ Java based Simple Messenger. term project in 2019, object-oriented programming
 
 ## Class Diagram
 ![class_diagram](https://github.com/byungkookkoo/java_based_messenger/blob/main/class_diagram.png)
-  * 모듈, 클래스 별 메소드 설명은 별도의 [pdf](https://github.com/byungkookkoo/java_based_messenger/blob/main/class-method_description.pdf)에 있음
+  * 모듈, 클래스 별 메소드 설명은 별도의 [pdf](https://github.com/byungkookkoo/java_based_messenger/blob/main/class-method_description.pdf)에 정리되어 있음
 
 ## Result
 ![demo](https://github.com/byungkookkoo/java_based_messenger/blob/main/demo.png)
